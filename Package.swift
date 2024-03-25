@@ -5,7 +5,7 @@ let package = Package(
     name: "AppsFlyerLib",
     products: [
         .library(
-            name: "AppsFlyerLib-Static",
+            name: "AppsFlyerLib-Strict",
             targets: ["AppsFlyerLib"])
     ],
     targets: [
